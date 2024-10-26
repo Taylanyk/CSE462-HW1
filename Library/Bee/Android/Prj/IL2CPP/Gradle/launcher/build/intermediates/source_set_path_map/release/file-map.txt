@@ -1,0 +1,11 @@
+com.DefaultCompany.HW1.launcher-jetified-core-1.36.0-0 C:\Users\MSI\.gradle\caches\transforms-3\d5e017fbc646108d278d9d065862a3b2\transformed\jetified-core-1.36.0\res
+com.DefaultCompany.HW1.launcher-jetified-VuforiaEngine-1 C:\Users\MSI\.gradle\caches\transforms-3\eb10837eba75ce62ce08bf9f456f9973\transformed\jetified-VuforiaEngine\res
+com.DefaultCompany.HW1.launcher-pngs-2 E:\unity projeler\HW1\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\pngs\release
+com.DefaultCompany.HW1.launcher-resValues-3 E:\unity projeler\HW1\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\resValues\release
+com.DefaultCompany.HW1.launcher-rs-4 E:\unity projeler\HW1\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\rs\release
+com.DefaultCompany.HW1.launcher-mergeReleaseResources-5 E:\unity projeler\HW1\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.DefaultCompany.HW1.launcher-mergeReleaseResources-6 E:\unity projeler\HW1\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.DefaultCompany.HW1.launcher-merged_res-7 E:\unity projeler\HW1\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\merged_res\release
+com.DefaultCompany.HW1.launcher-main-8 E:\unity projeler\HW1\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\res
+com.DefaultCompany.HW1.launcher-release-9 E:\unity projeler\HW1\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\release\res
+com.DefaultCompany.HW1.launcher-packaged_res-10 E:\unity projeler\HW1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\packaged_res\release
